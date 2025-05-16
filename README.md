@@ -1,3 +1,4 @@
+# 合并多个 Excel 文件
 <html lang="zh">
 <head>
   <meta charset="UTF-8" />
@@ -51,7 +52,6 @@
 </head>
 <body>
 
-  <h2>合并多个 Excel 文件</h2>
   <p class="tip">提示：可以按住 Ctrl 选择多个 Excel 文件一起上传</p>
   <input type="file" id="fileUpload" multiple accept=".xlsx, .xls" />
   <br />
